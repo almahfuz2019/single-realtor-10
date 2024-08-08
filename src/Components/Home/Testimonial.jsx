@@ -63,7 +63,7 @@ const Testimonial = () => {
               Working with John was a game-changer! His knowledge of the market
               and dedication to finding us the perfect home made the process
               seamless. He listened to our needs and negotiated a great deal. We
-              couldn't be happier with our new home. Highly recommend!
+              couldn&apos;t be happier with our new home. Highly recommend!
             </p>
             <div
               className="flex items-center gap-6 mb-4"

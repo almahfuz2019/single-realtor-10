@@ -229,16 +229,17 @@ const AboutMe = () => {
               className="mb-6 text-lg md:text-xl text-[#2B4257CC] text-justify"
               data-aos="fade-up"
             >
-              Hi, I'm Pablo Gavi, a dedicated Real Estate Broker based in New
-              York City. With a Bachelor's Degree in Business Administration
-              from New York University and 15 years of experience, I specialize
-              in luxury residential properties and commercial real estate.
-              Currently serving as a Senior Broker at Lifespring Realty, I am
-              committed to providing exceptional service, personalized guidance,
-              and expert market insights to help my clients achieve their real
-              estate goals. My extensive knowledge of the NYC market, strong
-              industry connections, and meticulous attention to detail ensure a
-              seamless and successful transaction experience.
+              Hi, I&apos;m Pablo Gavi, a dedicated Real Estate Broker based in
+              New York City. With a Bachelor&apos;s Degree in Business
+              Administration from New York University and 15 years of
+              experience, I specialize in luxury residential properties and
+              commercial real estate. Currently serving as a Senior Broker at
+              Lifespring Realty, I am committed to providing exceptional
+              service, personalized guidance, and expert market insights to help
+              my clients achieve their real estate goals. My extensive knowledge
+              of the NYC market, strong industry connections, and meticulous
+              attention to detail ensure a seamless and successful transaction
+              experience.
             </p>
 
             <div className="flex flex-wrap justify-center gap-4 md:gap-6 mb-6">

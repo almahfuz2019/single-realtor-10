@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* fonts  */
+body {
+   font-family: 'Montserrat', sans-serif !important;
+  background-color: #F9F1F0;
+}
+/* Font classes */
+.font-merriweather {
+  font-family: 'Merriweather', serif;
+}
+
+.font-montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.font-raleway {
+  font-family: 'Raleway', sans-serif;
+}
+
+.font-lato {
+  font-family: 'Lato', sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
